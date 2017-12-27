@@ -1,4 +1,4 @@
-# Airbnb-New-User-Bookings --- ECE 180 project Team 8
+# Airbnb-New-User-Bookings 
 The objective of this project is to use the data provided by Airbnb to predict the most likely location that new customers will choose for their first booking given information about their social background. This solution will help to personalize the Airbnb experience, decrease booking search times, increase efficiency, and predict the general demand across different locations. The data is publicly available on the Kaggle website as a competition hosted by Airbnb. This type of data is significantly important because it will help people understand the categories of countries that people who share with similar backgrounds generally enjoy visiting for their first booking. This analysis will also help Airbnb distribute housing more accurately based on demand, which will allow higher customer satisfaction rates. 
 
 ## Get Started
