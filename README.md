@@ -34,8 +34,8 @@ If you are also interested in the prediction part, we provide the preprocessing 
 ### Basic Work Follow
 In this project, both data engineering (80 %) and destination prediction (20 %) are done.
 
-##### Data Engineering Part: 
-##### Note: most of the plots are implemented in an interactive way as discussed in the class. Please re-run the codes to visualize the iwidgets.
+##### EDA: 
+##### Note: most of the plots are implemented in an interactive 
 
 Here is the basic workflow:
 - Visualization of Population in Destination Countries
@@ -67,6 +67,6 @@ https://github.com/davidgasquez/kaggle-airbnb/blob/master/notebooks/User%20Data.
 
 If there is anything wrong during the code testing, please contact s7qin@eng.ucsd.edu directly. Thanks
 
-### Authors: Pryor Vo, Xiangyuan Ren, Peng Chen, Ge Chang, Siqi Qin
+### Co-Authors: Pryor Vo, Ge Chang, Siqi Qin
 
 
